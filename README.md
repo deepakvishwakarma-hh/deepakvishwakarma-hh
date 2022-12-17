@@ -4,7 +4,7 @@ Hii! I'm **Front End Web Developer** . I love to convert design into real life p
 
 <img src="https://i.ibb.co/SxDdWLp/dazzle-1.png">
 
-Javascript , Typescript,  ReactJs , NextJs , HTML , CSS are my **Primery** Tools
+Javascript, Typescript, ReactJs ,NextJs, HTML, CSS, Figma, Tailwindcss, styled-component, ChakraUI  are my **Primery** Tools
 
  ## Certification
  
