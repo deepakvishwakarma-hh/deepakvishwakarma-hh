@@ -1,6 +1,6 @@
 # Hey 👋
 
-Hii! I'm **Front End Web Developer** . I love to convert design into real life projects **Finding Opportunities**
+Hii! I'm **Full Stack Web Developer** . I love to convert design into real life projects **Finding Opportunities**
 
 <img src="https://i.ibb.co/SxDdWLp/dazzle-1.png">
 
