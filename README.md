@@ -4,7 +4,31 @@ Hii! I'm **Front End Web Developer** . I love to convert design into real life p
 
 <img src="https://i.ibb.co/SxDdWLp/dazzle-1.png">
 
-Javascript, Typescript, ReactJs ,NextJs, HTML, CSS, Figma, Tailwindcss, styled-component, ChakraUI  are my **Primery** Tools
++ JavaScript
++ Typescript
++ Reactjs
++ Nextjs
++ HTML
++ CSS
++ SASS
++ TailwindCss
++ Styled Component
++ Bootstrap
++ Chakra UI
++ Material UI
++ Mantine UI
++ Reduxjs
++ Recoiljs
++ Jotai
++ Solidjs
++ Remixjs
++ Framer Motion
++ Spring 
++ AOS (Animation On Scroll)
++ Strapi (dashboard/payments)
++ Prisma
++ TRPC
+more....
 
  ## Certification
  
