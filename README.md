@@ -1,6 +1,7 @@
-# Hey 👋
-
-Hii! I'm **Full Stack Web Developer** . I love to convert design into real life projects **Finding Opportunities**
+# Hey Visitor
+I'm Full Stack Developer 
+[Visit website](https://frontendartists.vercel.app/) <br/>
+MERN Stack | T3 Stack
 
 <img src="https://i.ibb.co/SxDdWLp/dazzle-1.png">
 
