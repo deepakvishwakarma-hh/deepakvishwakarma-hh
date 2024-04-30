@@ -12,7 +12,7 @@ Hi there! 👋 I'm Deepak Vishwakarma
 *   🎓 Certified in Responsive Web Design and Front End Development Libraries.
 *   💻 Level One Seller on Fiverr with a track record of delivering high-quality projects and excellent customer satisfaction.
 *   ✅ Verified user on Fiverr with numerous completed projects and satisfied clients.
-*   🌟 Featured Live Projects: IncAncestry, Momentary, Blogoo, CryptoInf, Pizza Website.
+*   🌟 Featured Live Projects: IncAncestry,CosmicKidsClub, KSNproperty etc.
 
 ### Experience:
 
